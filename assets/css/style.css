@@ -1,0 +1,32 @@
+body {
+	background: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+	color:#373A3C;
+}
+
+.fondo {
+	background-color: #E83E8C;
+}
+
+.fondo img{
+	white-space: nowrap;
+}
+
+.icons-section{
+	background-color: #17A2B8;
+	margin: 0 auto;
+}
+
+.line-h2{
+	line-height: 2;
+}
+
+.logo-footer{
+	margin: 1em auto;
+}
+
+h1{
+color: #707070;
+}
+
+
